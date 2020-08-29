@@ -1,6 +1,6 @@
 # react-swr
 
-## Tecnologias utilizadas
+## Principais tecnologias utilizadas
 - [JSON Server](https://github.com/typicode/json-server)
 - [SWR](https://swr.vercel.app/)
 
@@ -9,7 +9,6 @@ Baixe o código
 ```sh
 git clone https://github.com/arturbp/react-swr.git
 cd react-swr
-yarn install
 ```
 Instale as dependências
 ```sh
